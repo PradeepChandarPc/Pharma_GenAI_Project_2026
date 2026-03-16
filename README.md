@@ -1,0 +1,1 @@
+# Pharma_GenAI_Project_2026
