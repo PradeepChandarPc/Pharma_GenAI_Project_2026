@@ -1,6 +1,5 @@
 # Pharma_GenAI_Project_2026
 
-# Pharma GenAI Project 2026
 ### Clinical Trial Document Q&A — An AI assistant built with RAG
 
 ---
