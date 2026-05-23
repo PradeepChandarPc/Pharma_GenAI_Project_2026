@@ -5,6 +5,8 @@ langchain>=0.1.0
 langchain-community>=0.0.29
 langchain-core>=0.1.30
 langgraph>=0.0.32
+langchain-openai>=0.1.0
+
 
 # Ollama Integration
 langchain-ollama>=0.1.0
